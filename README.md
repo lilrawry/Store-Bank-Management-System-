@@ -1,4 +1,3 @@
-Sure! Here's a detailed README.md for your `Store-Bank-Management-System-` project:
 
 ```markdown
 # Store-Bank-Management-System
